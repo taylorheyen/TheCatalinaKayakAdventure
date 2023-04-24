@@ -8,6 +8,10 @@ On the way to the next island, there are rocks and 3 different sea creatures tha
 
 Running into either of them will restart the player's level and put them back on the island.
 
+The enemies have different movement speeds, and different movement rotations. (i.e the whales move slower and in circles)
+
+Once the kayak has made it to the other island, they can continue on to the next level, the level counter in the top left will keep track of the level the player is on. 
+
 
 ![Entry_screen](https://user-images.githubusercontent.com/87054001/233895766-0c36f6a9-99dc-4cef-9ccc-cc4a6b095508.PNG)
 ![near_rocks](https://user-images.githubusercontent.com/87054001/233895767-b3216a03-edb1-410e-b925-43d8ebd7139b.PNG)

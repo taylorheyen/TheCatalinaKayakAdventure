@@ -13,3 +13,6 @@ Running into either of them will restart the player's level and put them back on
 ![near_rocks](https://user-images.githubusercontent.com/87054001/233895767-b3216a03-edb1-410e-b925-43d8ebd7139b.PNG)
 ![after_collision](https://user-images.githubusercontent.com/87054001/233895765-c0558988-7baa-4996-a8c3-ec01b0d641bb.PNG)
 ![next_level](https://user-images.githubusercontent.com/87054001/233895769-785fe115-87a4-4848-a3ea-f639fc3605bd.PNG)
+
+
+Main game is ran on the game.py

@@ -20,3 +20,5 @@ Once the kayak has made it to the other island, they can continue on to the next
 
 
 Main game is ran on the game.py
+
+(As a side note, github shows a contributor by "turboman80", that is my other github account and I accidentally signed into that one on PyCharm when I commited the project)
